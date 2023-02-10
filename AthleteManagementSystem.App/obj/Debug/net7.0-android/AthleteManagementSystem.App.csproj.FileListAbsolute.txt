@@ -16,10 +16,7 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManage
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\staticwebassets.pack.json
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\staticwebassets.build.json
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\staticwebassets.development.json
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\scopedcss\Shared\MainLayout.razor.rz.scp.css
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\scopedcss\Shared\NavMenu.razor.rz.scp.css
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\scopedcss\bundle\AthleteManagementSystem.App.styles.css
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\scopedcss\projectbundle\AthleteManagementSystem.App.bundle.scp.css
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\staticwebassets.publish.json
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\AthleteManagementSystem.App.csproj.AssemblyReference.cache
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\mauiimage.inputs
@@ -1003,3 +1000,11 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManage
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\bin\Debug\net7.0-android\AthleteManagementSystem.AppPages.staticwebassets.runtime.json
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\bin\Debug\net7.0-android\AthleteManagementSystem.AppPages.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\bin\Debug\net7.0-android\AthleteManagementSystem.AppPages.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\AthleteManagementSystem.App.csproj.CopyComplete
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\android\assets\AthleteManagementSystem.AppPages.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\android\assets\AthleteManagementSystem.AppPages.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\android\src\crc6438dff3e1576bfe69\MainActivity.java
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\obj\Debug\net7.0-android\android\src\crc6438dff3e1576bfe69\MainApplication.java

@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = AthleteManagementSystem.AppPages
+build_property.RootNamespace = AthleteManagementSystem.AppPages
+build_property.ProjectDir = F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.AppPages\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.AppPages
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jmffpcp7a1
+
+[F:/MyProjects/AthleteManagementSystem/AthleteManagementSystemFront/AthleteManagementSystem.AppPages/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-08c08lu4zp

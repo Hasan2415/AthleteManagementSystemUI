@@ -1,4 +1,4 @@
-﻿using AthleteManagementSystem.App.Data;
+﻿using AthleteManagementSystem.AppPages.Data;
 using Microsoft.Extensions.Logging;
 
 namespace AthleteManagementSystem.App

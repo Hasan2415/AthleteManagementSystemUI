@@ -11,8 +11,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <permission android:name="com.companyname.athletemanagementsystem.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
   <uses-permission android:name="com.companyname.athletemanagementsystem.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-  <application android:name="crc646b99fc016820f1f3.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="AthleteManagementSystem.App" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
-    <activity android:name="crc646b99fc016820f1f3.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
+  <application android:name="crc6438dff3e1576bfe69.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="AthleteManagementSystem.App" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
+    <activity android:name="crc6438dff3e1576bfe69.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

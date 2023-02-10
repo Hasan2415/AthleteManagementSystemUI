@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace AthleteManagementSystem.App
+namespace AthleteManagementSystem.App.Platforms.MacCatalyst
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

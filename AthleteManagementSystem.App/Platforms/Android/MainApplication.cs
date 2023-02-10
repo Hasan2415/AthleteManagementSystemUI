@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace AthleteManagementSystem.App
+namespace AthleteManagementSystem.App.Platforms.Android
 {
     [Application]
     public class MainApplication : MauiApplication

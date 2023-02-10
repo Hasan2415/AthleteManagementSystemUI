@@ -1,7 +1,6 @@
-﻿using ObjCRuntime;
-using UIKit;
+﻿using UIKit;
 
-namespace AthleteManagementSystem.App
+namespace AthleteManagementSystem.App.Platforms.iOS
 {
     public class Program
     {

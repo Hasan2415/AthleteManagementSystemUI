@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace AthleteManagementSystem.App
+namespace AthleteManagementSystem.App.Platforms.iOS
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate
