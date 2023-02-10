@@ -1,0 +1,1 @@
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystemFront\AthleteManagementSystem.App\AthleteManagementSystem.App.csproj;x64
